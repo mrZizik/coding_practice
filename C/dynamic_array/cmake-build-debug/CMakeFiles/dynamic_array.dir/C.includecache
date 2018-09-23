@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mrzizik/projects/coding_practice/C/dynamic_array/dynamic_array.c
+assert.h
+-
+stdlib.h
+-
+dynamic_array.h
+/home/mrzizik/projects/coding_practice/C/dynamic_array/dynamic_array.h
+
+/home/mrzizik/projects/coding_practice/C/dynamic_array/dynamic_array.h
+stdbool.h
+-
+
+/home/mrzizik/projects/coding_practice/C/dynamic_array/main.c
+stdio.h
+-
+dynamic_array.c
+/home/mrzizik/projects/coding_practice/C/dynamic_array/dynamic_array.c
+
