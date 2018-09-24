@@ -1,3 +1,0 @@
-/home/mrzizik/projects/coding_practice/C/dynamic_array/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mrzizik/projects/coding_practice/C/dynamic_array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mrzizik/projects/coding_practice/C/dynamic_array/cmake-build-debug/CMakeFiles/dynamic_array.dir
