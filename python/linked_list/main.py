@@ -10,6 +10,6 @@ ll.pushFirst(2)
 
 ll.printList()
 
-ll.addBefore(341, 42)
+ll.addBefore(34, 42)
 
 ll.printList()
